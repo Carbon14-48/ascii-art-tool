@@ -1,0 +1,3 @@
+*.c linguist-language=C
+*.sh linguist-language=Bash
+*.h linguist-language=C
